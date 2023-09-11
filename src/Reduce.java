@@ -10,5 +10,6 @@ public class Reduce {
             }
             c++;
         }
+        System.out.println(c + " steps");
     }
 }
